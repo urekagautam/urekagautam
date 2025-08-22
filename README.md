@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ureka Gautam</h1>
-<h3 align="center">I am aspiring web developer with a focus on front-end development and hands-on experience in PHP and the MERN stack. Eager to apply technical knowledge, contribute to real-world projects, and continue growing as a full-stack developer.</h3>
+<h3 align="center">I am an aspiring web developer with a focus on front-end development and hands-on experience in PHP and the MERN stack. Eager to apply technical knowledge, contribute to real-world projects, and continue growing as a full-stack developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
